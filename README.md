@@ -78,7 +78,6 @@ _____________
 **Front-End Development Tools:**
 ===
 
-- [PlaceKitten] (http://placekitten.com/)
 - [LoremPixel - placeholder images](http://lorempixel.com/)
 - [Lipsum - placeholder text](http://lipsum.com/)
 - [UI Faces](http://uifaces.com/)
