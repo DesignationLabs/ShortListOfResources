@@ -22,7 +22,6 @@ _____________
 **Responsiveness:**
 ===
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
-- [Emmet Re:View](http://re-view.emmet.io/)
 - [FitText.js](http://fittextjs.com/)
 - [Media Queries Patterns Library](http://mediaqueri.es/)
 - [Responsinator](http://www.responsinator.com/)
@@ -70,6 +69,16 @@ _____________
 
 _____________
 
+
+
+**Chrome Extensions:**
+===
+- [jSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+- [Emmet Re:View](http://re-view.emmet.io/)
+- [Panda Design Inspiration](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
+- [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal)
+
+_____________
 
 
 **Front-End Development Tools:**
@@ -299,4 +308,3 @@ _____________
 - [FreePic](http://www.freepik.com/)
 - [52 Weeks of UX](http://52weeksofux.com/)
 - [Hack Design](https://hackdesign.org/lessons)
-
